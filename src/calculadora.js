@@ -22,4 +22,7 @@ function uselessFunction(a,c){
 function otheruselessFunction(a,c){
   return c;
 }
+function uselessFunction3(a,c){
+  return c;
+}
 export { sumar, restar, multiplicar, dividir };

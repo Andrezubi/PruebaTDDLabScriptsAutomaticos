@@ -10,7 +10,7 @@ describe("Calculadora - sumar", () => {
   });
 
   it("deberia sumar dos negativos", () => {
-    expect(sumar(-3, -2)).toEqual(-10);
+    expect(sumar(-3, -2)).toEqual(-5);
   });
 });
 
