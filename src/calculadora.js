@@ -16,5 +16,10 @@ function dividir(a, b) {
   }
   return a / b;
 }
-
+function uselessFunction(a,c){
+  return c;
+}
+function otheruselessFunction(a,c){
+  return c;
+}
 export { sumar, restar, multiplicar, dividir };
